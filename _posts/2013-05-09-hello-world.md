@@ -1,6 +1,7 @@
 ---
 published: true
 category: blog
+title: BOBOBOBBOBOB
 layout: blog
 splash: "http://placehold.it/1600x500"
 ---
