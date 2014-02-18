@@ -14,6 +14,11 @@ Proin at eros non eros adipiscing mollis. Donec semper turpis sed diam. Sed cons
 
     We are here now
     And here now
+    var fnName = function(test) {
+      var t = 1;
+      var t2 = 2;
+      return t + t2;
+    }
    
 **We are in this code
 
