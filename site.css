@@ -320,7 +320,7 @@ table {
 ------------------------------------------------------- */
 .heading,
 .header {
-  padding:20px 0;
+  padding:20px 0 0 0;
   }
   .header .title {
     font-size:30px;
