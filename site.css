@@ -494,3 +494,8 @@ Details: http://www.positioniseverything.net/easyclearing.html
     }
   }
 
+.bio-img {
+    border:1px solid red;
+    width: 50px;
+}
+                
